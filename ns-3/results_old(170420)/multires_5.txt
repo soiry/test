@@ -1,0 +1,18 @@
+scanning topology: [0, 25) nodes...
+1	timeTemp: 24.8443, contentTotal: 0, avg comp time: 24.8443
+1	timeTemp: 24.844, contentTotal: 1, avg comp time: 24.8442
+1	timeTemp: 24.844, contentTotal: 2, avg comp time: 24.8441
+1	timeTemp: 24.844, contentTotal: 3, avg comp time: 24.8441
+1	timeTemp: 24.8553, contentTotal: 4, avg comp time: 24.8463
+1	timeTemp: 24.8477, contentTotal: 5, avg comp time: 24.8466
+1	timeTemp: 24.842, contentTotal: 6, avg comp time: 24.8459
+1	timeTemp: 24.844, contentTotal: 7, avg comp time: 24.8457
+1	timeTemp: 24.8739, contentTotal: 8, avg comp time: 24.8488
+1	timeTemp: 24.8699, contentTotal: 9, avg comp time: 24.8509
+1	timeTemp: 24.8477, contentTotal: 10, avg comp time: 24.8506
+1	timeTemp: 24.8553, contentTotal: 11, avg comp time: 24.851
+1	timeTemp: 24.8403, contentTotal: 12, avg comp time: 24.8502
+1	timeTemp: 24.8591, contentTotal: 13, avg comp time: 24.8508
+1	timeTemp: 24.8548, contentTotal: 14, avg comp time: 24.8511
+1	timeTemp: 24.8625, contentTotal: 15, avg comp time: 24.8518
+1	timeTemp: 24.8477, contentTotal: 16, avg comp time: 24.8516

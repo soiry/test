@@ -1,0 +1,42 @@
+# topo-disjoint.txt
+
+router
+
+#node	city	y	x	mpi-partition
+sub-1	NA	10	50	1
+sub-2	NA	10	10	1
+sub-3	NA	10	30	1
+sub-4	NA	10	40	1
+sub-5	NA	10	70	1
+sub-6	NA	10	90	1
+sub-7	NA	1	40	1
+rtr-1	NA	30	10	2
+rtr-2	NA	30	30	2
+rtr-3	NA	30	50	2
+rtr-4	NA	30	70	2
+rtr-5	NA	30	90	2
+svr	NA	50	50	3
+
+link
+
+# from	    to		capacity	metric	delay	queue
+rtr-5	svr	10Mbps	1	10ms	20
+rtr-4	svr	10Mbps	1	10ms	20
+rtr-2	svr	10Mbps	1	10ms	20
+rtr-1	svr	10Mbps	1	10ms	20
+sub-6	rtr-5	10Mbps	1	10ms	20
+sub-5	rtr-4	10Mbps	1	10ms	20
+sub-4	rtr-3	10Mbps	1	10ms	20
+sub-3	rtr-2	10Mbps	1	10ms	20
+sub-2	rtr-1	10Mbps	1	10ms	20
+rtr-3	svr	10Mbps	1	10ms	20
+sub-1	rtr-1	10Mbps	1	10ms	20
+sub-1	rtr-2	10Mbps	1	10ms	20
+sub-1	rtr-3	10Mbps	1	10ms	20
+sub-1	rtr-4	10Mbps	1	10ms	20
+sub-1	rtr-5	10Mbps	1	10ms	20
+sub-7	rtr-1	10Mbps	1	10ms	20
+sub-7	rtr-2	10Mbps	1	10ms	20
+sub-7	rtr-3	10Mbps	1	10ms	20
+sub-7	rtr-4	10Mbps	1	10ms	20
+sub-7	rtr-5	10Mbps	1	10ms	20

@@ -1,0 +1,1 @@
+???Consumer setting starts42	contentNum: 11	timeTemp: 46.069, contentTotal: 0, avg comp time: 46.069

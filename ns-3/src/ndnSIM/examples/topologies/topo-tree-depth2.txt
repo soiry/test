@@ -1,0 +1,24 @@
+# topo-tree.txt
+
+router
+
+#node	city	y	x	mpi-partition
+sub-1	NA	10	35	10
+leaf-1	NA	60	60	1
+leaf-2	NA	60	40	3
+leaf-3	NA	60	30	2
+leaf-4	NA	60	10	4
+acc-1	NA	40	40	1
+acc-2	NA	40	30	2
+root	NA	20	35	0
+
+link
+
+# from	    to		capacity	metric	delay	queue
+leaf-1	    acc-1	3Mbps	1	20ms	50
+leaf-2	    acc-1	2Mbps	2	20ms	50
+leaf-3	    acc-2	1.5Mbps	2	20ms	50
+leaf-4	    acc-2	2Mbps	3	20ms	50
+acc-1		root	5Mbps	1	10ms	50
+acc-2		root	5Mbps	2	10ms	50
+sub-1		root	1Gbps	1	1ms		50

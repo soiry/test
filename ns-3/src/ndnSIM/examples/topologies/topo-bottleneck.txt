@@ -1,0 +1,28 @@
+# topo-bottleneck.txt
+
+router
+
+#node	city	y	x	mpi-partition
+mic-1	NA	40	10	0
+mic-2	NA	60	10	0
+mic-3	NA	80	10	0
+icp-1	NA	20	10	1
+acc-1	NA	40	40	0
+acc-2	NA	60	40	0
+acc-3	NA	80	40	0
+acc-4	NA	20	40	1
+bot	NA	50	70	2
+pub	NA	50	100	2
+
+link
+
+# from	    to		capacity	metric	delay	queue
+mic-1	    acc-1	10Mbps		1	10ms	50
+mic-2	    acc-2	10Mbps		1	10ms	50
+mic-3	    acc-3	10Mbps		1	10ms	50
+icp-1		acc-4	10Mbps		1	10ms	50
+acc-1		bot		10Mbps		1	10ms	50
+acc-2		bot		10Mbps		1	10ms	50
+acc-3		bot		10Mbps		1	10ms	50
+acc-4		bot		10Mbps		1	10ms	50
+bot			pub		10Mbps		1	10ms	50

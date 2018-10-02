@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 97, in waf_entry_point
+    run_commands()
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 151, in run_commands
+    run_command(cmd_name)
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 143, in run_command
+    ctx.execute()
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 345, in execute
+    return execute_method(self)
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Build.py", line 98, in execute
+    self.execute_build()
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Build.py", line 101, in execute_build
+    self.recurse([self.run_dir])
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/root/ndnSIM/ns-3/wscript", line 725, in build
+    bld.add_subdirs('src')
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/root/ndnSIM/ns-3/src/wscript", line 308, in build
+    bld.add_subdirs(list(all_modules))
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/root/ndnSIM/ns-3/src/ndnSIM/wscript", line 155, in build
+    bld.add_subdirs('examples')
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 122, in recurse
+    wscript_module=load_module(node.abspath())
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/extras/compat15.py", line 88, in load_module
+    ret=rev(path)
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 266, in load_module
+    exec(compile(code,path,'exec'),module.__dict__)
+  File "/root/ndnSIM/ns-3/src/ndnSIM/examples/wscript", line 57
+    obj = bld.create_ns3_program('ndn-grid+1-topo-multi-3sub', ['ndnSIM'])
+   ^
+IndentationError: unexpected indent

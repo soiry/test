@@ -1,0 +1,4 @@
+1	contentNum: 304	timeTemp: 22.7308, contentTotal: 0, avg comp time: 22.7308
+1	contentNum: 77	timeTemp: 22.7308, contentTotal: 1, avg comp time: 22.7308
+1	contentNum: 37	timeTemp: 22.7308, contentTotal: 2, avg comp time: 22.7308
+1	contentNum: 17	timeTemp: 22.7308, contentTotal: 3, avg comp time: 22.7308

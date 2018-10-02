@@ -1,0 +1,17 @@
+1	timeTemp: 201.686, contentTotal: 0, avg comp time: 201.686
+1	timeTemp: 189.211, contentTotal: 1, avg comp time: 195.449
+1	timeTemp: 198.867, contentTotal: 2, avg comp time: 196.588
+1	timeTemp: 195.065, contentTotal: 3, avg comp time: 196.207
+1	timeTemp: 189.386, contentTotal: 4, avg comp time: 194.843
+1	timeTemp: 209.829, contentTotal: 5, avg comp time: 197.341
+1	timeTemp: 201.456, contentTotal: 6, avg comp time: 197.928
+1	timeTemp: 192.882, contentTotal: 7, avg comp time: 197.298
+1	timeTemp: 211.762, contentTotal: 8, avg comp time: 198.905
+1	timeTemp: 188.881, contentTotal: 9, avg comp time: 197.902
+1	timeTemp: 206.758, contentTotal: 10, avg comp time: 198.707
+1	timeTemp: 197.876, contentTotal: 11, avg comp time: 198.638
+1	timeTemp: 197.93, contentTotal: 12, avg comp time: 198.584
+1	timeTemp: 221.339, contentTotal: 13, avg comp time: 200.209
+1	timeTemp: 235.584, contentTotal: 14, avg comp time: 202.567
+1	timeTemp: 207.194, contentTotal: 15, avg comp time: 202.857
+1	timeTemp: 209.838, contentTotal: 16, avg comp time: 203.267

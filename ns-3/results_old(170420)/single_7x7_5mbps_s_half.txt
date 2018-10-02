@@ -1,0 +1,140 @@
+???Consumer setting starts35	contentNum: 4	timeTemp: 31.4112, contentTotal: 0, avg comp time: 31.4112
+42	contentNum: 11	timeTemp: 31.4183, contentTotal: 0, avg comp time: 31.4183
+0	contentNum: 304	timeTemp: 31.4253, contentTotal: 0, avg comp time: 31.4253
+7	contentNum: 695	timeTemp: 31.4253, contentTotal: 0, avg comp time: 31.4253
+14	contentNum: 110	timeTemp: 31.4253, contentTotal: 0, avg comp time: 31.4253
+28	contentNum: 153	timeTemp: 31.4253, contentTotal: 0, avg comp time: 31.4253
+28	contentNum: 46	timeTemp: 31.4183, contentTotal: 1, avg comp time: 31.4218
+42	contentNum: 7	timeTemp: 31.4112, contentTotal: 1, avg comp time: 31.4148
+35	contentNum: 56	timeTemp: 31.4183, contentTotal: 1, avg comp time: 31.4148
+0	contentNum: 77	timeTemp: 31.4183, contentTotal: 1, avg comp time: 31.4218
+7	contentNum: 142	timeTemp: 31.4253, contentTotal: 1, avg comp time: 31.4253
+14	contentNum: 163	timeTemp: 31.4253, contentTotal: 1, avg comp time: 31.4253
+42	contentNum: 3	timeTemp: 31.4112, contentTotal: 2, avg comp time: 31.4136
+35	contentNum: 14	timeTemp: 31.4183, contentTotal: 2, avg comp time: 31.4159
+28	contentNum: 6	timeTemp: 31.4112, contentTotal: 2, avg comp time: 31.4183
+14	contentNum: 22	timeTemp: 31.4183, contentTotal: 2, avg comp time: 31.4229
+0	contentNum: 37	timeTemp: 31.4183, contentTotal: 2, avg comp time: 31.4206
+7	contentNum: 343	timeTemp: 31.4253, contentTotal: 2, avg comp time: 31.4253
+35	contentNum: 10	timeTemp: 31.4183, contentTotal: 3, avg comp time: 31.4165
+42	contentNum: 17	timeTemp: 31.4183, contentTotal: 3, avg comp time: 31.4148
+14	contentNum: 9	timeTemp: 31.4126, contentTotal: 3, avg comp time: 31.4203
+28	contentNum: 193	timeTemp: 31.4253, contentTotal: 3, avg comp time: 31.42
+0	contentNum: 17	timeTemp: 31.4183, contentTotal: 3, avg comp time: 31.42
+7	contentNum: 2	timeTemp: 31.4112, contentTotal: 3, avg comp time: 31.4218
+35	contentNum: 15	timeTemp: 31.4183, contentTotal: 4, avg comp time: 31.4169
+42	contentNum: 3	timeTemp: 31.4112, contentTotal: 4, avg comp time: 31.4141
+28	contentNum: 4	timeTemp: 30.8398, contentTotal: 4, avg comp time: 31.304
+14	contentNum: 41	timeTemp: 31.4183, contentTotal: 4, avg comp time: 31.4199
+0	contentNum: 16	timeTemp: 31.1584, contentTotal: 4, avg comp time: 31.3677
+7	contentNum: 3	timeTemp: 31.4112, contentTotal: 4, avg comp time: 31.4197
+35	contentNum: 6	timeTemp: 31.4112, contentTotal: 5, avg comp time: 31.4159
+42	contentNum: 813	timeTemp: 31.4253, contentTotal: 5, avg comp time: 31.4159
+28	contentNum: 294	timeTemp: 31.4253, contentTotal: 5, avg comp time: 31.3242
+0	contentNum: 285	timeTemp: 31.8728, contentTotal: 5, avg comp time: 31.4519
+14	contentNum: 532	timeTemp: 31.4253, contentTotal: 5, avg comp time: 31.4208
+7	contentNum: 20	timeTemp: 31.4183, contentTotal: 5, avg comp time: 31.4194
+35	contentNum: 14	timeTemp: 31.4183, contentTotal: 6, avg comp time: 31.4163
+0	contentNum: 2	timeTemp: 31.4112, contentTotal: 6, avg comp time: 31.4461
+28	contentNum: 8	timeTemp: 31.4112, contentTotal: 6, avg comp time: 31.3366
+42	contentNum: 267	timeTemp: 31.4253, contentTotal: 6, avg comp time: 31.4173
+14	contentNum: 100	timeTemp: 31.4253, contentTotal: 6, avg comp time: 31.4215
+7	contentNum: 340	timeTemp: 31.4253, contentTotal: 6, avg comp time: 31.4203
+28	contentNum: 37	timeTemp: 31.2322, contentTotal: 7, avg comp time: 31.3236
+0	contentNum: 67	timeTemp: 31.4183, contentTotal: 7, avg comp time: 31.4426
+14	contentNum: 12	timeTemp: 31.4183, contentTotal: 7, avg comp time: 31.4211
+42	contentNum: 56	timeTemp: 31.4183, contentTotal: 7, avg comp time: 31.4174
+35	contentNum: 3	timeTemp: 31.4112, contentTotal: 7, avg comp time: 31.4156
+7	contentNum: 689	timeTemp: 31.4253, contentTotal: 7, avg comp time: 31.4209
+0	contentNum: 673	timeTemp: 31.4253, contentTotal: 8, avg comp time: 31.4407
+42	contentNum: 6	timeTemp: 31.4112, contentTotal: 8, avg comp time: 31.4167
+14	contentNum: 75	timeTemp: 31.4183, contentTotal: 8, avg comp time: 31.4207
+35	contentNum: 37	timeTemp: 31.4183, contentTotal: 8, avg comp time: 31.4159
+28	contentNum: 348	timeTemp: 31.4253, contentTotal: 8, avg comp time: 31.3349
+7	contentNum: 1	timeTemp: 31.4112, contentTotal: 8, avg comp time: 31.4198
+0	contentNum: 88	timeTemp: 31.4183, contentTotal: 9, avg comp time: 31.4384
+14	contentNum: 29	timeTemp: 31.4183, contentTotal: 9, avg comp time: 31.4205
+35	contentNum: 12	timeTemp: 31.4183, contentTotal: 9, avg comp time: 31.4162
+42	contentNum: 8	timeTemp: 31.4112, contentTotal: 9, avg comp time: 31.4162
+28	contentNum: 1	timeTemp: 31.4112, contentTotal: 9, avg comp time: 31.3425
+7	contentNum: 10	timeTemp: 31.4183, contentTotal: 9, avg comp time: 31.4197
+35	contentNum: 335	timeTemp: 30.9662, contentTotal: 10, avg comp time: 31.3753
+14	contentNum: 102	timeTemp: 31.4253, contentTotal: 10, avg comp time: 31.4209
+42	contentNum: 22	timeTemp: 31.4183, contentTotal: 10, avg comp time: 31.4163
+28	contentNum: 233	timeTemp: 31.4253, contentTotal: 10, avg comp time: 31.35
+0	contentNum: 315	timeTemp: 31.4253, contentTotal: 10, avg comp time: 31.4372
+7	contentNum: 49	timeTemp: 31.4183, contentTotal: 10, avg comp time: 31.4195
+35	contentNum: 2	timeTemp: 31.8587, contentTotal: 11, avg comp time: 31.4155
+14	contentNum: 10	timeTemp: 31.4183, contentTotal: 11, avg comp time: 31.4207
+28	contentNum: 1	timeTemp: 31.4112, contentTotal: 11, avg comp time: 31.3551
+42	contentNum: 2	timeTemp: 31.4112, contentTotal: 11, avg comp time: 31.4159
+0	contentNum: 56	timeTemp: 31.4183, contentTotal: 11, avg comp time: 31.4356
+7	contentNum: 19	timeTemp: 31.4183, contentTotal: 11, avg comp time: 31.4194
+35	contentNum: 15	timeTemp: 31.4183, contentTotal: 12, avg comp time: 31.4157
+14	contentNum: 86	timeTemp: 31.4183, contentTotal: 12, avg comp time: 31.4205
+28	contentNum: 9	timeTemp: 31.4126, contentTotal: 12, avg comp time: 31.3596
+42	contentNum: 97	timeTemp: 31.4183, contentTotal: 12, avg comp time: 31.4161
+7	contentNum: 2	timeTemp: 30.8394, contentTotal: 12, avg comp time: 31.3748
+0	contentNum: 7	timeTemp: 31.4112, contentTotal: 12, avg comp time: 31.4338
+35	contentNum: 1	timeTemp: 31.4112, contentTotal: 13, avg comp time: 31.4154
+14	contentNum: 12	timeTemp: 31.4183, contentTotal: 13, avg comp time: 31.4204
+28	contentNum: 382	timeTemp: 31.4253, contentTotal: 13, avg comp time: 31.3642
+42	contentNum: 3	timeTemp: 31.4112, contentTotal: 13, avg comp time: 31.4158
+0	contentNum: 346	timeTemp: 31.4253, contentTotal: 13, avg comp time: 31.4332
+7	contentNum: 101	timeTemp: 31.4253, contentTotal: 13, avg comp time: 31.3784
+14	contentNum: 11	timeTemp: 31.4183, contentTotal: 14, avg comp time: 31.4202
+35	contentNum: 142	timeTemp: 31.4253, contentTotal: 14, avg comp time: 31.4161
+28	contentNum: 122	timeTemp: 31.4253, contentTotal: 14, avg comp time: 31.3683
+42	contentNum: 19	timeTemp: 31.4183, contentTotal: 14, avg comp time: 31.4159
+7	contentNum: 5	timeTemp: 31.4112, contentTotal: 14, avg comp time: 31.3806
+0	contentNum: 1	timeTemp: 31.4112, contentTotal: 14, avg comp time: 31.4317
+14	contentNum: 4	timeTemp: 31.4112, contentTotal: 15, avg comp time: 31.4197
+35	contentNum: 137	timeTemp: 31.4253, contentTotal: 15, avg comp time: 31.4167
+28	contentNum: 530	timeTemp: 31.4253, contentTotal: 15, avg comp time: 31.3719
+42	contentNum: 15	timeTemp: 31.4183, contentTotal: 15, avg comp time: 31.4161
+7	contentNum: 130	timeTemp: 31.4253, contentTotal: 15, avg comp time: 31.3834
+0	contentNum: 351	timeTemp: 31.4253, contentTotal: 15, avg comp time: 31.4313
+35	contentNum: 11	timeTemp: 31.4183, contentTotal: 16, avg comp time: 31.4167
+28	contentNum: 1	timeTemp: 31.4112, contentTotal: 16, avg comp time: 31.3742
+14	contentNum: 112	timeTemp: 31.4253, contentTotal: 16, avg comp time: 31.42
+0	contentNum: 695	timeTemp: 31.7047, contentTotal: 16, avg comp time: 31.4474
+42	contentNum: 1	timeTemp: 31.4112, contentTotal: 16, avg comp time: 31.4158
+7	contentNum: 702	timeTemp: 31.4253, contentTotal: 16, avg comp time: 31.3859
+28	contentNum: 512	timeTemp: 31.4253, contentTotal: 17, avg comp time: 31.377
+35	contentNum: 43	timeTemp: 31.4183, contentTotal: 17, avg comp time: 31.4168
+14	contentNum: 247	timeTemp: 31.4253, contentTotal: 17, avg comp time: 31.4203
+Traceback (most recent call last):
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 97, in waf_entry_point
+    run_commands()
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 151, in run_commands
+    run_command(cmd_name)
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 143, in run_command
+    ctx.execute()
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Scripting.py", line 345, in execute
+    return execute_method(self)
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Build.py", line 98, in execute
+    self.execute_build()
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Build.py", line 101, in execute_build
+    self.recurse([self.run_dir])
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/root/ndnSIM/ns-3/wscript", line 725, in build
+    bld.add_subdirs('src')
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/root/ndnSIM/ns-3/src/wscript", line 308, in build
+    bld.add_subdirs(list(all_modules))
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/root/ndnSIM/ns-3/src/ndnSIM/wscript", line 155, in build
+    bld.add_subdirs('examples')
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 122, in recurse
+    wscript_module=load_module(node.abspath())
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/extras/compat15.py", line 88, in load_module
+    ret=rev(path)
+  File "/root/ndnSIM/ns-3/.waf-1.6.11-30618c54883417962c38f5d395f83584/waflib/Context.py", line 266, in load_module
+    exec(compile(code,path,'exec'),module.__dict__)
+  File "/root/ndnSIM/ns-3/src/ndnSIM/examples/wscript", line 57
+    obj = bld.create_ns3_program('ndn-grid+1-topo-multi-3sub', ['ndnSIM'])
+   ^
+IndentationError: unexpected indent

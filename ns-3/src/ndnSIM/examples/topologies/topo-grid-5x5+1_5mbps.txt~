@@ -1,0 +1,99 @@
+# topo-grid-3x3.txt
+
+router
+
+# each line in this section represents one router and should have the following data
+# node  comment     yPos    xPos
+Node0   NA          5       1
+Node1   NA          5       2
+Node2   NA          5       3
+Node3   NA          5       4
+Node4   NA          5       5
+Node5   NA          4       1
+Node6   NA          4       2
+Node7   NA          4       3
+Node8   NA          4       4
+Node9	NA	    4	    5
+Node10	NA	    3	    1
+Node11  NA	    3	    2
+Node12	NA	    3	    3
+Node13	NA	    3	    4
+Node14	NA	    3	    5
+Node15	NA	    2	    1
+Node16	NA	    2	    2
+Node17	NA	    2	    3
+Node18	NA	    2	    4
+Node19	NA	    2	    5
+Node20	NA	    1	    1
+Node21	NA	    1	    2
+Node22	NA	    1	    3
+Node23	NA	    1	    4
+Node24	NA	    1	    5
+
+# Note that `node` can be any string. It is possible to access to the node by name using Names::Find, see examples.
+
+# link section defines point-to-point links between nodes and characteristics of these links
+link
+
+# Each line should be in the following format (only first two are required, the rest can be omitted)
+# srcNode   dstNode     bandwidth   metric  delay   queue
+# bandwidth: link bandwidth
+# metric: routing metric
+# delay:  link delay
+# queue:  MaxPackets for transmission queue on the link (both directions)
+Node0       Node1       10Mbps       1       10ms    10
+Node0       Node5       10Mbps       1       10ms    10
+Node0	    Node6	5Mbps	    2	    20ms    20
+Node1       Node2       10Mbps       1       10ms    10
+Node1       Node6       10Mbps       1       10ms    10
+Node1	    Node7	5Mbps	    2       20ms    20
+Node2       Node3       10Mbps       1       10ms    10
+Node2	    Node7	10Mbps	    1	    10ms    10
+Node2	    Node8	5Mbps	    2	    20ms    20
+Node3       Node4       10Mbps       1       10ms    10
+Node3       Node8       10Mbps       1       10ms    10
+Node3	    Node9	5Mbps	    2	    20ms    20
+Node4       Node9       10Mbps       1       10ms    10
+Node5       Node6       10Mbps       1       10ms    10
+Node5	    Node10	10Mbps	    1	    10ms    10
+Node5	    Node11	5Mbps	    2	    20ms    20
+Node6       Node7       10Mbps       1       10ms    10
+Node6	    Node11	10Mbps	    1	    10ms    10
+Node6	    Node12	5Mbps	    2	    20ms    20
+Node7       Node8       10Mbps       1       10ms    10
+Node7	    Node12	10Mbps	    1	    10ms    10
+Node7	    Node13	5Mbps	    2	    20ms    20
+Node8       Node9       10Mbps       1       10ms    10
+Node8       Node13      10Mbps       1       10ms    10
+Node8	    Node14	5Mbps	    2	    20ms    20
+Node9       Node14      10Mbps       1       10ms    10
+Node10      Node11      10Mbps       1       10ms    10
+Node10      Node15      10Mbps       1       10ms    10
+Node10	    Node16	5Mbps	    2	    20ms    20
+Node11      Node12      10Mbps       1       10ms    10
+Node11      Node16      10Mbps       1       10ms    10
+Node11	    Node17	5Mbps	    2	    20ms    20
+Node12      Node13      10Mbps       1       10ms    10
+Node12      Node17      10Mbps       1       10ms    10
+Node12	    Node18	5Mbps	    2	    20ms    20
+Node13      Node14      10Mbps       1       10ms    10
+Node13      Node18      10Mbps       1       10ms    10
+Node13	    Node19	5Mbps	    2	    20ms    20
+Node14      Node19      10Mbps       1       10ms    10
+Node15      Node16      10Mbps       1       10ms    10
+Node15      Node20      10Mbps       1       10ms    10
+Node15	    Node21	5Mbps	    2	    20ms    20
+Node16      Node17      10Mbps       1       10ms    10
+Node16      Node21      10Mbps       1       10ms    10
+Node16	    Node22	5Mbps	    2	    20ms    20
+Node17      Node18      10Mbps       1       10ms    10
+Node17      Node22      10Mbps       1       10ms    10
+Node17	    Node23	5Mbps	    2	    20ms    20
+Node18      Node19      10Mbps       1       10ms    10
+Node18      Node23      10Mbps       1       10ms    10
+Node18	    Node24	5Mbps	    2	    20ms    20
+Node19      Node24      10Mbps       1       10ms    10
+Node20      Node21      10Mbps       1       10ms    10
+Node21      Node22      10Mbps       1       10ms    10
+Node22	    Node23	10Mbps	    1	    10ms    10
+Node23      Node24      10Mbps       1       10ms    10

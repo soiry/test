@@ -1,0 +1,23 @@
+rm 0_window_mptcp.txt
+rm 1_window_single.txt
+rm 2_window_single.txt
+rm 3_window_single.txt
+rm 4_window_single.txt
+rm 5_window_single.txt
+rm 0_branchStats_mptcp.txt
+rm 1_branchStats_single.txt
+rm 2_branchStats_single.txt
+rm 3_branchStats_single.txt
+rm 4_branchStats_single.txt
+rm 5_branchStats_single.txt
+rm disjoint_mptcp.txt
+rm disjoint_mptcp_ls.txt
+
+
+
+
+
+
+
+
+

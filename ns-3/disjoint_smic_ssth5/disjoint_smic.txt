@@ -1,0 +1,85 @@
+0	7.10493	contentNum: 1660	timeTemp: 6.10493, contentTotal: 0, avg comp time: 6.10493, m_totalWindow: 74, sumOfWindow: 74
+1	contentNum: 531	timeTemp: 16.2353, contentTotal: 0, avg comp time: 16.2353, m_window: 59
+3	contentNum: 841	timeTemp: 16.2353, contentTotal: 0, avg comp time: 16.2353, m_window: 59
+5	contentNum: 7312	timeTemp: 16.299, contentTotal: 0, avg comp time: 16.299, m_window: 60
+4	contentNum: 19	timeTemp: 18.7545, contentTotal: 0, avg comp time: 18.7545, m_window: 55
+2	contentNum: 33	timeTemp: 18.7545, contentTotal: 0, avg comp time: 18.7545, m_window: 55
+0	21.593	contentNum: 213	timeTemp: 13.4881, contentTotal: 1, avg comp time: 9.79649, m_totalWindow: 126, sumOfWindow: 126
+0	27.8988	contentNum: 72	timeTemp: 5.30581, contentTotal: 2, avg comp time: 8.2996, m_totalWindow: 253, sumOfWindow: 253
+3	contentNum: 72	timeTemp: 13.6205, contentTotal: 1, avg comp time: 14.9279, m_window: 32
+1	contentNum: 1	timeTemp: 14.0673, contentTotal: 1, avg comp time: 15.1513, m_window: 26
+5	contentNum: 2	timeTemp: 14.253, contentTotal: 1, avg comp time: 15.276, m_window: 28
+0	34.2308	contentNum: 24	timeTemp: 5.33203, contentTotal: 3, avg comp time: 7.55771, m_totalWindow: 178, sumOfWindow: 178
+2	contentNum: 3864	timeTemp: 19.3095, contentTotal: 1, avg comp time: 19.032, m_window: 40
+4	contentNum: 15	timeTemp: 19.4376, contentTotal: 1, avg comp time: 19.0961, m_window: 38
+0	40.8765	contentNum: 21	timeTemp: 5.64568, contentTotal: 4, avg comp time: 7.1753, m_totalWindow: 195, sumOfWindow: 195
+0	46.5378	contentNum: 1507	timeTemp: 4.6613, contentTotal: 5, avg comp time: 6.7563, m_totalWindow: 248, sumOfWindow: 248
+1	contentNum: 30	timeTemp: 18.9462, contentTotal: 2, avg comp time: 16.4162, m_window: 30
+5	contentNum: 6	timeTemp: 18.9515, contentTotal: 2, avg comp time: 16.5012, m_window: 44
+0	52.5406	contentNum: 1	timeTemp: 5.00279, contentTotal: 6, avg comp time: 6.5058, m_totalWindow: 109, sumOfWindow: 109
+3	contentNum: 1	timeTemp: 20.2041, contentTotal: 2, avg comp time: 16.6866, m_window: 52
+4	contentNum: 532	timeTemp: 16.1604, contentTotal: 2, avg comp time: 18.1175, m_window: 45
+0	57.8174	contentNum: 172	timeTemp: 4.2768, contentTotal: 7, avg comp time: 6.22717, m_totalWindow: 265, sumOfWindow: 265
+2	contentNum: 206	timeTemp: 16.8126, contentTotal: 2, avg comp time: 18.2922, m_window: 15
+0	64.146	contentNum: 5507	timeTemp: 5.32859, contentTotal: 8, avg comp time: 6.12733, m_totalWindow: 224, sumOfWindow: 224
+1	contentNum: 5704	timeTemp: 16.8727, contentTotal: 3, avg comp time: 16.5304, m_window: 63
+0	71.6416	contentNum: 257	timeTemp: 6.49565, contentTotal: 9, avg comp time: 6.16416, m_totalWindow: 198, sumOfWindow: 198
+3	contentNum: 3843	timeTemp: 18.771, contentTotal: 3, avg comp time: 17.2077, m_window: 56
+5	contentNum: 5	timeTemp: 20.0211, contentTotal: 3, avg comp time: 17.3812, m_window: 49
+0	77.0431	contentNum: 1751	timeTemp: 4.40149, contentTotal: 10, avg comp time: 6.00392, m_totalWindow: 274, sumOfWindow: 274
+2	contentNum: 11	timeTemp: 20.3846, contentTotal: 3, avg comp time: 18.8153, m_window: 40
+4	contentNum: 619	timeTemp: 23.5773, contentTotal: 3, avg comp time: 19.4825, m_window: 28
+0	84.1892	contentNum: 134	timeTemp: 6.14608, contentTotal: 11, avg comp time: 6.01577, m_totalWindow: 170, sumOfWindow: 170
+1	contentNum: 11	timeTemp: 13.7515, contentTotal: 4, avg comp time: 15.9746, m_window: 28
+3	contentNum: 4176	timeTemp: 14.5746, contentTotal: 4, avg comp time: 16.6811, m_window: 41
+0	88.7523	contentNum: 6	timeTemp: 3.56304, contentTotal: 12, avg comp time: 5.8271, m_totalWindow: 284, sumOfWindow: 284
+5	contentNum: 770	timeTemp: 16.3357, contentTotal: 4, avg comp time: 17.1721, m_window: 28
+0	96.2995	contentNum: 2022	timeTemp: 6.54728, contentTotal: 13, avg comp time: 5.87854, m_totalWindow: 169, sumOfWindow: 169
+2	contentNum: 12	timeTemp: 16.1258, contentTotal: 4, avg comp time: 18.2774, m_window: 27
+0	101.747	contentNum: 1	timeTemp: 4.44759, contentTotal: 14, avg comp time: 5.78314, m_totalWindow: 139, sumOfWindow: 139
+1	contentNum: 28	timeTemp: 16.3875, contentTotal: 5, avg comp time: 16.0434, m_window: 56
+4	contentNum: 18	timeTemp: 19.7523, contentTotal: 4, avg comp time: 19.5364, m_window: 38
+3	contentNum: 3493	timeTemp: 14.3964, contentTotal: 5, avg comp time: 16.3003, m_window: 34
+0	107.28	contentNum: 2062	timeTemp: 4.5332, contentTotal: 15, avg comp time: 5.70502, m_totalWindow: 164, sumOfWindow: 164
+5	contentNum: 2108	timeTemp: 16.7452, contentTotal: 5, avg comp time: 17.1009, m_window: 17
+2	contentNum: 1216	timeTemp: 17.4927, contentTotal: 5, avg comp time: 18.1466, m_window: 37
+0	114.964	contentNum: 5780	timeTemp: 6.68379, contentTotal: 16, avg comp time: 5.76259, m_totalWindow: 131, sumOfWindow: 131
+1	contentNum: 319	timeTemp: 16.4625, contentTotal: 6, avg comp time: 16.1033, m_window: 46
+4	contentNum: 721	timeTemp: 16.2473, contentTotal: 5, avg comp time: 18.9882, m_window: 50
+0	123.298	contentNum: 1996	timeTemp: 7.33419, contentTotal: 17, avg comp time: 5.84991, m_totalWindow: 169, sumOfWindow: 169
+5	contentNum: 86	timeTemp: 16.6335, contentTotal: 6, avg comp time: 17.0342, m_window: 27
+3	contentNum: 29	timeTemp: 21.6445, contentTotal: 6, avg comp time: 17.0638, m_window: 21
+0	128.003	contentNum: 1	timeTemp: 3.70509, contentTotal: 18, avg comp time: 5.73702, m_totalWindow: 133, sumOfWindow: 133
+0	132.877	contentNum: 86	timeTemp: 3.87316, contentTotal: 19, avg comp time: 5.64383, m_totalWindow: 247, sumOfWindow: 247
+1	contentNum: 465	timeTemp: 13.3915, contentTotal: 7, avg comp time: 15.7643, m_window: 40
+2	contentNum: 220	timeTemp: 18.3497, contentTotal: 6, avg comp time: 18.1756, m_window: 21
+4	contentNum: 45	timeTemp: 16.3484, contentTotal: 6, avg comp time: 18.6111, m_window: 24
+0	137.731	contentNum: 5	timeTemp: 3.85489, contentTotal: 20, avg comp time: 5.55864, m_totalWindow: 171, sumOfWindow: 171
+5	contentNum: 1919	timeTemp: 12.4888, contentTotal: 7, avg comp time: 16.466, m_window: 35
+3	contentNum: 72	timeTemp: 12.4818, contentTotal: 7, avg comp time: 16.491, m_window: 38
+0	143.336	contentNum: 16	timeTemp: 4.60449, contentTotal: 21, avg comp time: 5.51527, m_totalWindow: 248, sumOfWindow: 248
+0	148.282	contentNum: 22	timeTemp: 3.9465, contentTotal: 22, avg comp time: 5.44706, m_totalWindow: 217, sumOfWindow: 217
+2	contentNum: 4	timeTemp: 14.8521, contentTotal: 7, avg comp time: 17.7602, m_window: 46
+3	contentNum: 1	timeTemp: 11.2594, contentTotal: 8, avg comp time: 15.9097, m_window: 34
+0	153.214	contentNum: 20	timeTemp: 3.93203, contentTotal: 23, avg comp time: 5.38394, m_totalWindow: 259, sumOfWindow: 259
+1	contentNum: 4	timeTemp: 18.6268, contentTotal: 8, avg comp time: 16.0824, m_window: 59
+4	contentNum: 3791	timeTemp: 16.8762, contentTotal: 7, avg comp time: 18.3943, m_window: 46
+0	158.461	contentNum: 6663	timeTemp: 4.24658, contentTotal: 24, avg comp time: 5.33844, m_totalWindow: 245, sumOfWindow: 245
+0	164.435	contentNum: 67	timeTemp: 4.97365, contentTotal: 25, avg comp time: 5.32441, m_totalWindow: 144, sumOfWindow: 144
+2	contentNum: 568	timeTemp: 17.9743, contentTotal: 8, avg comp time: 17.784, m_window: 25
+5	contentNum: 2	timeTemp: 28.463, contentTotal: 8, avg comp time: 17.799, m_window: 18
+0	170.125	contentNum: 18	timeTemp: 4.69026, contentTotal: 26, avg comp time: 5.30092, m_totalWindow: 169, sumOfWindow: 169
+4	contentNum: 1	timeTemp: 15.2961, contentTotal: 8, avg comp time: 18.05, m_window: 22
+3	contentNum: 4	timeTemp: 19.5067, contentTotal: 9, avg comp time: 16.2694, m_window: 47
+1	contentNum: 174	timeTemp: 18.7602, contentTotal: 9, avg comp time: 16.3501, m_window: 49
+0	174.417	contentNum: 11	timeTemp: 3.29248, contentTotal: 27, avg comp time: 5.22919, m_totalWindow: 154, sumOfWindow: 154
+0	180.983	contentNum: 4663	timeTemp: 5.5658, contentTotal: 28, avg comp time: 5.2408, m_totalWindow: 212, sumOfWindow: 212
+2	contentNum: 15	timeTemp: 13.5353, contentTotal: 9, avg comp time: 17.3591, m_window: 50
+5	contentNum: 386	timeTemp: 13.6667, contentTotal: 9, avg comp time: 17.3858, m_window: 23
+0	191.361	contentNum: 534	timeTemp: 9.37781, contentTotal: 29, avg comp time: 5.3787, m_totalWindow: 106, sumOfWindow: 106
+3	contentNum: 1473	timeTemp: 18.5556, contentTotal: 10, avg comp time: 16.4773, m_window: 44
+4	contentNum: 197	timeTemp: 20.752, contentTotal: 9, avg comp time: 18.3202, m_window: 32
+1	contentNum: 9	timeTemp: 18.7547, contentTotal: 10, avg comp time: 16.5687, m_window: 48
+0	196.747	contentNum: 58	timeTemp: 4.3855, contentTotal: 30, avg comp time: 5.34666, m_totalWindow: 253, sumOfWindow: 253
+5	contentNum: 94	timeTemp: 12.7025, contentTotal: 10, avg comp time: 16.96, m_window: 40
+2	contentNum: 98	timeTemp: 14.9886, contentTotal: 10, avg comp time: 17.1436, m_window: 51

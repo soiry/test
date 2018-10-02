@@ -1,0 +1,93 @@
+# topo-tree.txt
+
+router
+
+#node	city	y	x	mpi-partition
+sub1	NA	10	10	0
+sub2	NA	10	20	0
+sub3	NA	10	30	0
+sub4	NA	10	40	0
+sub5	NA	10	50	0
+sub6	NA	10	60	0
+sub7	NA	10	70	0
+sub8	NA	10	80	0
+acc1	NA	30	20	1
+acc2	NA	30	40	1
+acc3	NA	30	60	1
+acc4	NA	30	80	1
+acc5	NA	30	100	1
+acc6	NA	30	120	1
+acc7	NA	30	140	1
+acc8	NA	30	160	1
+rmt1	NA	50	20	2
+rmt2	NA	50	40	2
+rmt3	NA	50	60	2
+rmt4	NA	50	80	2
+rmt5	NA	50	100	2
+rmt6	NA	50	120	2
+rmt7	NA	50	140	2
+rmt8	NA	50	160	2
+rtr1	NA	70	30	3
+rtr2	NA	70	70	3
+rtr3	NA	70	110	3
+rtr4	NA	70	150	3
+pub1	NA	10	100	4
+pub2	NA	10	110	4
+pub3	NA	10	120	4
+pub4	NA	10	130	4
+pub5	NA	10	140	4
+pub6	NA	10	150	4
+pub7	NA	10	160	4
+pub8	NA	10	170	4
+
+link
+
+# from	    to		capacity	metric	delay	queue
+sub1		acc1	100Mbps		1	20ms	1000
+sub2		acc1	100Mbps		1	20ms	1000
+sub3		acc2	100Mbps		1	20ms	1000
+sub4		acc2	100Mbps		1	20ms	1000
+sub5		acc3	100Mbps		1	20ms	1000
+sub6		acc3	100Mbps		1	20ms	1000
+sub7		acc4	100Mbps		1	20ms	1000
+sub8		acc4	100Mbps		1	20ms	1000
+pub1		acc5	100Mbps		1	20ms	1000
+pub2		acc5	100Mbps		1	20ms	1000
+pub3		acc6	100Mbps		1	20ms	1000
+pub4		acc6	100Mbps		1	20ms	1000
+pub5		acc7	100Mbps		1	20ms	1000
+pub6		acc7	100Mbps		1	20ms	1000
+pub7		acc8	100Mbps		1	20ms	1000
+pub8		acc8	100Mbps		1	20ms	1000
+acc1	    rmt1	100Mbps		1	20ms	1000
+acc1	    rmt2	100Mbps		1	20ms	1000
+acc2	    rmt1	100Mbps		1	20ms	1000
+acc2	    rmt2	100Mbps		1	20ms	1000
+acc3	    rmt3	100Mbps		1	20ms	1000
+acc3	    rmt4	100Mbps		1	20ms	1000
+acc4	    rmt3	100Mbps		1	20ms	1000
+acc4	    rmt4	100Mbps		1	20ms	1000
+acc5	    rmt5	100Mbps		1	20ms	1000
+acc5	    rmt6	100Mbps		1	20ms	1000
+acc6	    rmt5	100Mbps		1	20ms	1000
+acc6	    rmt6	100Mbps		1	20ms	1000
+acc7	    rmt7	100Mbps		1	20ms	1000
+acc7	    rmt8	100Mbps		1	20ms	1000
+acc8	    rmt7	100Mbps		1	20ms	1000
+acc8	    rmt8	100Mbps		1	20ms	1000
+rmt1		rtr1	100Mbps		1	20ms	1000
+rmt1		rtr2	100Mbps		1	20ms	1000
+rmt2		rtr3	100Mbps		1	20ms	1000
+rmt2		rtr4	100Mbps		1	20ms	1000
+rmt3		rtr1	100Mbps		1	20ms	1000
+rmt3		rtr2	100Mbps		1	20ms	1000
+rmt4		rtr3	100Mbps		1	20ms	1000
+rmt4		rtr4	100Mbps		1	20ms	1000
+rmt5		rtr1	100Mbps		1	20ms	1000
+rmt5		rtr2	100Mbps		1	20ms	1000
+rmt6		rtr3	100Mbps		1	20ms	1000
+rmt6		rtr4	100Mbps		1	20ms	1000
+rmt7		rtr1	100Mbps		1	20ms	1000
+rmt7		rtr2	100Mbps		1	20ms	1000
+rmt8		rtr3	100Mbps		1	20ms	1000
+rmt8		rtr4	100Mbps		1	20ms	1000

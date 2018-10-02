@@ -1,0 +1,133 @@
+# -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    obj = bld.create_ns3_program('ndn-simple', ['ndnSIM'])
+    obj.source = 'ndn-simple.cc'
+
+    obj = bld.create_ns3_program('ndn-simple-with-content-freshness', ['ndnSIM'])
+    obj.source = ['ndn-simple-with-content-freshness.cc',
+                  'custom-apps/dumb-requester.cc']
+
+    obj = bld.create_ns3_program('ndn-simple-with-custom-app', ['ndnSIM'])
+    obj.source = ['ndn-simple-with-custom-app.cc',
+                  'custom-apps/custom-app.cc',
+                  'custom-apps/hijacker.cc']
+
+    if 'topology' in bld.env['NDN_plugins']:
+        obj = bld.create_ns3_program('ndn-congestion-topo-plugin', ['ndnSIM'])
+        obj.source = 'ndn-congestion-topo-plugin.cc'
+
+        obj = bld.create_ns3_program('ndn-congestion-alt-topo-plugin', ['ndnSIM'])
+        obj.source = [
+        'custom-strategies/custom-strategy.cc',
+        'ndn-congestion-alt-topo-plugin.cc'
+        ]
+
+        obj = bld.create_ns3_program('ndn-tree-tracers', ['ndnSIM'])
+        obj.source = 'ndn-tree-tracers.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-cs-tracers', ['ndnSIM'])
+        obj.source = 'ndn-tree-cs-tracers.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-app-delay-tracer', ['ndnSIM'])
+        obj.source = 'ndn-tree-app-delay-tracer.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-app-delay-tracer-icp', ['ndnSIM'])
+        obj.source = 'ndn-tree-app-delay-tracer-icp.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-app-delay-tracer-mic', ['ndnSIM'])
+        obj.source = 'ndn-tree-app-delay-tracer-mic.cc'
+
+        obj = bld.create_ns3_program('ndn-bottleneck', ['ndnSIM'])
+        obj.source = 'ndn-bottleneck.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-mic', ['ndnSIM'])
+        obj.source = 'ndn-tree-mic.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-icp', ['ndnSIM'])
+        obj.source = 'ndn-tree-icp.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-depth2-mic', ['ndnSIM'])
+        obj.source = 'ndn-tree-depth2-mic.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-depth2-icp', ['ndnSIM'])
+        obj.source = 'ndn-tree-depth2-icp.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-depth2-mptcp', ['ndnSIM'])
+        obj.source = 'ndn-tree-depth2-mptcp.cc'
+
+        obj = bld.create_ns3_program('ndn-tree-depth2-single', ['ndnSIM'])
+        obj.source = 'ndn-tree-depth2-single.cc'
+
+        obj = bld.create_ns3_program('ndn-abilene-mic', ['ndnSIM'])
+        obj.source = 'ndn-abilene-mic.cc'
+
+        obj = bld.create_ns3_program('ndn-abilene-icp', ['ndnSIM'])
+        obj.source = 'ndn-abilene-icp.cc'
+
+        obj = bld.create_ns3_program('ndn-abilene-mic2', ['ndnSIM'])
+        obj.source = 'ndn-abilene-mic2.cc'
+
+        obj = bld.create_ns3_program('ndn-abilene-icp2', ['ndnSIM'])
+        obj.source = 'ndn-abilene-icp2.cc'
+
+        obj = bld.create_ns3_program('ndn-geant-mic', ['ndnSIM'])
+        obj.source = 'ndn-geant-mic.cc'
+
+        obj = bld.create_ns3_program('ndn-geant-icp', ['ndnSIM'])
+        obj.source = 'ndn-geant-icp.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mptcp', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mptcp.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-smic', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-smic.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-single', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-single.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mic', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mic.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mic-2', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mic-2.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mic-3', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mic-3.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mic-4', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mic-4.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-smic-2', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-smic-2.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-smic-3', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-smic-3.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-smic-4', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-smic-4.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mptcp-2', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mptcp-2.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mptcp-3', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mptcp-3.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-mptcp-4', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-mptcp-4.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-2smic', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-2smic.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-3smic', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-3smic.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-4smic', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-4smic.cc'
+
+        obj = bld.create_ns3_program('ndn-disjoint-5smic', ['ndnSIM'])
+        obj.source = 'ndn-disjoint-5smic.cc'
+
+        obj = bld.create_ns3_program('ndn-diamond-smic', ['ndnSIM'])
+        obj.source = 'ndn-diamond-smic.cc'
+

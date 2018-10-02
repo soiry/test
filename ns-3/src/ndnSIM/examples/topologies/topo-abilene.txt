@@ -1,0 +1,88 @@
+# topo-abilene.txt
+
+router
+
+#node	city	y	x	mpi-partition
+0	NA	30	80	0
+1	NA	40	80	0
+2	NA	40	60	0
+3	NA	40	40	0
+4	NA	40	20	0
+5	NA	40	0	0
+6	NA	20	0	0
+7	NA	20	20	0
+8	NA	20	40	0
+9	NA	20	60	0
+10	NA	20	80	0
+11	NA	25	100	1
+12	NA	30	100	1
+13	NA	35	100	1
+14	NA	60	80	2
+15	NA	60	65	1
+16	NA	60	60	1
+17	NA	60	55	1
+18	NA	60	45	1
+19	NA	60	40	1
+20	NA	60	35	1
+21	NA	60	25	1
+22	NA	60	20	1
+23	NA	60	15	1
+24	NA	60	0	2
+25	NA	1	-5	1
+26	NA	1	0	1
+27	NA	1	5	1
+28	NA	1	15	1
+29	NA	1	20	1
+30	NA	1	25	1
+31	NA	1	40	2
+32	NA	1	55	1
+33	NA	1	60	1
+34	NA	1	65	1
+35	NA	1	75	1
+36	NA	1	80	1
+37	NA	1	85	1
+
+link
+
+# from	    to		capacity	metric	delay	queue
+11	0	100Mbps	1	20ms	20
+12	0	100Mbps	1	20ms	20
+13	0	100Mbps	1	20ms	20
+14	1	1Gbps	1	10ms	20
+15	2	100Mbps	1	20ms	20
+16	2	100Mbps	1	20ms	20
+17	2	100Mbps	1	20ms	20
+18	3	100Mbps	1	20ms	20
+19	3	100Mbps	1	20ms	20
+20	3	100Mbps	1	20ms	20
+21	4	100Mbps	1	20ms	20
+22	4	100Mbps	1	20ms	20
+23	4	100Mbps	1	20ms	20
+24	5	1Gbps	1	10ms	20
+25	6	100Mbps	1	20ms	20
+26	6	100Mbps	1	20ms	20
+27	6	100Mbps	1	20ms	20
+28	7	100Mbps	1	20ms	20
+29	7	100Mbps	1	20ms	20
+30	7	100Mbps	1	20ms	20
+31	8	1Gbps	1	10ms	20
+32	9	100Mbps	1	20ms	20
+33	9	100Mbps	1	20ms	20
+34	9	100Mbps	1	20ms	20
+35	10	100Mbps	1	20ms	20
+36	10	100Mbps	1	20ms	20
+37	10	100Mbps	1	20ms	20
+0	1	10Mbps	1	50ms	20
+1	2	25Mbps	1	30ms	20
+2	3	15Mbps	1	40ms	20
+3	4	15Mbps	1	40ms	20
+4	5	20Mbps	1	35ms	20
+5	6	5Mbps	1	55ms	20
+6	7	5Mbps	1	55ms	20
+7	8	10Mbps	1	50ms	20
+8	9	20Mbps	1	35ms	20
+9	10	20Mbps	1	35ms	20
+10	0	10Mbps	1	50ms	20
+2	9	20Mbps	1	35ms	20
+3	8	20Mbps	1	50ms	20
+5	7	15Mbps	1	40ms	20

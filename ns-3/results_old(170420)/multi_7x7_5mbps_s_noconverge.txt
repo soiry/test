@@ -1,0 +1,74 @@
+???Consumer setting starts35	contentNum: 4	timeTemp: 505.191, contentTotal: 0, avg comp time: 505.191
+35	branchIntSize: 0
+0	contentNum: 304	timeTemp: 505.806, contentTotal: 0, avg comp time: 505.806
+0	branchIntSize: 1
+7	contentNum: 695	timeTemp: 520.421, contentTotal: 0, avg comp time: 520.421
+7	branchIntSize: 0
+14	contentNum: 110	timeTemp: 552.09, contentTotal: 0, avg comp time: 552.09
+14	branchIntSize: 0
+28	contentNum: 153	timeTemp: 559.783, contentTotal: 0, avg comp time: 559.783
+28	branchIntSize: 6
+42	contentNum: 11	timeTemp: 571.31, contentTotal: 0, avg comp time: 571.31
+42	branchIntSize: 0
+0	contentNum: 77	timeTemp: 510.825, contentTotal: 1, avg comp time: 508.316
+0	branchIntSize: 0
+35	contentNum: 56	timeTemp: 511.82, contentTotal: 1, avg comp time: 508.506
+35	branchIntSize: 0
+7	contentNum: 142	timeTemp: 528.249, contentTotal: 1, avg comp time: 524.335
+7	branchIntSize: 0
+14	contentNum: 163	timeTemp: 528.185, contentTotal: 1, avg comp time: 540.137
+14	branchIntSize: 0
+28	contentNum: 46	timeTemp: 546.378, contentTotal: 1, avg comp time: 553.081
+28	branchIntSize: 0
+42	contentNum: 7	timeTemp: 577.498, contentTotal: 1, avg comp time: 574.404
+42	branchIntSize: 0
+35	contentNum: 14	timeTemp: 501.299, contentTotal: 2, avg comp time: 506.104
+35	branchIntSize: 0
+0	contentNum: 37	timeTemp: 526.235, contentTotal: 2, avg comp time: 514.289
+0	branchIntSize: 0
+7	contentNum: 343	timeTemp: 533.132, contentTotal: 2, avg comp time: 527.267
+7	branchIntSize: 0
+14	contentNum: 22	timeTemp: 523.536, contentTotal: 2, avg comp time: 534.603
+14	branchIntSize: 0
+28	contentNum: 6	timeTemp: 561.024, contentTotal: 2, avg comp time: 555.728
+28	branchIntSize: 0
+42	contentNum: 3	timeTemp: 575.868, contentTotal: 2, avg comp time: 574.892
+42	branchIntSize: 0
+35	contentNum: 10	timeTemp: 513.407, contentTotal: 3, avg comp time: 507.93
+35	branchIntSize: 0
+0	contentNum: 17	timeTemp: 525.278, contentTotal: 3, avg comp time: 517.036
+0	branchIntSize: 0
+7	contentNum: 2	timeTemp: 526.797, contentTotal: 3, avg comp time: 527.15
+7	branchIntSize: 0
+14	contentNum: 9	timeTemp: 533.917, contentTotal: 3, avg comp time: 534.432
+14	branchIntSize: 0
+28	contentNum: 193	timeTemp: 550.553, contentTotal: 3, avg comp time: 554.434
+28	branchIntSize: 0
+42	contentNum: 17	timeTemp: 554.618, contentTotal: 3, avg comp time: 569.823
+42	branchIntSize: 0
+35	contentNum: 15	timeTemp: 506.237, contentTotal: 4, avg comp time: 507.591
+35	branchIntSize: 0
+0	contentNum: 16	timeTemp: 510.895, contentTotal: 4, avg comp time: 515.808
+0	branchIntSize: 0
+7	contentNum: 3	timeTemp: 536.625, contentTotal: 4, avg comp time: 529.045
+7	branchIntSize: 0
+14	contentNum: 41	timeTemp: 546.247, contentTotal: 4, avg comp time: 536.795
+14	branchIntSize: 0
+28	contentNum: 4	timeTemp: 556.687, contentTotal: 4, avg comp time: 554.885
+28	branchIntSize: 0
+42	contentNum: 3	timeTemp: 572.508, contentTotal: 4, avg comp time: 570.36
+42	branchIntSize: 0
+35	contentNum: 6	timeTemp: 499.763, contentTotal: 5, avg comp time: 506.286
+35	branchIntSize: 0
+0	contentNum: 285	timeTemp: 505.144, contentTotal: 5, avg comp time: 514.031
+0	branchIntSize: 0
+7	contentNum: 20	timeTemp: 509.926, contentTotal: 5, avg comp time: 525.858
+7	branchIntSize: 0
+14	contentNum: 532	timeTemp: 528.232, contentTotal: 5, avg comp time: 535.368
+14	branchIntSize: 0
+28	contentNum: 294	timeTemp: 564.081, contentTotal: 5, avg comp time: 556.418
+28	branchIntSize: 4
+42	contentNum: 813	timeTemp: 565.453, contentTotal: 5, avg comp time: 569.542
+42	branchIntSize: 4
+35	contentNum: 14	timeTemp: 513.206, contentTotal: 6, avg comp time: 507.275
+35	branchIntSize: 4

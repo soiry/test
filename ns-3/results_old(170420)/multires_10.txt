@@ -1,0 +1,8 @@
+1	timeTemp: 680.739, contentTotal: 0, avg comp time: 680.739
+1	timeTemp: 527.097, contentTotal: 1, avg comp time: 603.918
+1	timeTemp: 336.799, contentTotal: 2, avg comp time: 514.878
+1	timeTemp: 332.062, contentTotal: 3, avg comp time: 469.174
+1	timeTemp: 284.079, contentTotal: 4, avg comp time: 432.155
+1	timeTemp: 680.74, contentTotal: 5, avg comp time: 473.586
+1	timeTemp: 309.783, contentTotal: 6, avg comp time: 450.186
+1	timeTemp: 375.238, contentTotal: 7, avg comp time: 440.817

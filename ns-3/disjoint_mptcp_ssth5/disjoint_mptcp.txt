@@ -1,0 +1,80 @@
+5	contentNum: 7312	timeTemp: 13.2579476, contentTotal: 0, avg comp time: 13.2579476, m_window: 26
+0	14.6867054	contentNum: 1660	timeTemp: 13.6867054, contentTotal: 0, avg comp time: 13.6867054, m_totalWindow: 66, sumOfWindow: 66
+2	contentNum: 33	timeTemp: 14.3476633, contentTotal: 0, avg comp time: 14.3476633, m_window: 54
+4	contentNum: 19	timeTemp: 14.3476633, contentTotal: 0, avg comp time: 14.3476633, m_window: 54
+1	contentNum: 531	timeTemp: 14.5769306, contentTotal: 0, avg comp time: 14.5769306, m_window: 59
+3	contentNum: 841	timeTemp: 14.5769306, contentTotal: 0, avg comp time: 14.5769306, m_window: 59
+5	contentNum: 2	timeTemp: 12.1234793, contentTotal: 1, avg comp time: 12.6907135, m_window: 62
+2	contentNum: 3864	timeTemp: 12.3005355, contentTotal: 1, avg comp time: 13.3240994, m_window: 46
+4	contentNum: 15	timeTemp: 12.6578336, contentTotal: 1, avg comp time: 13.5027485, m_window: 58
+1	contentNum: 1	timeTemp: 14.9742888, contentTotal: 1, avg comp time: 14.7756097, m_window: 47
+0	31.6725394	contentNum: 213	timeTemp: 15.985834, contentTotal: 1, avg comp time: 14.8362697, m_totalWindow: 80, sumOfWindow: 80
+3	contentNum: 72	timeTemp: 16.1283374, contentTotal: 1, avg comp time: 15.352634, m_window: 7
+0	40.3126962	contentNum: 72	timeTemp: 7.6401568, contentTotal: 2, avg comp time: 12.4375654, m_totalWindow: 101, sumOfWindow: 101
+5	contentNum: 6	timeTemp: 12.7451999, contentTotal: 2, avg comp time: 12.7088756, m_window: 56
+2	contentNum: 206	timeTemp: 13.1381704, contentTotal: 2, avg comp time: 13.2621231, m_window: 34
+4	contentNum: 532	timeTemp: 13.7307319, contentTotal: 2, avg comp time: 13.5787429, m_window: 13
+3	contentNum: 1	timeTemp: 11.9999203, contentTotal: 2, avg comp time: 14.2350628, m_window: 48
+1	contentNum: 30	timeTemp: 14.3463107, contentTotal: 2, avg comp time: 14.6325101, m_window: 62
+5	contentNum: 5	timeTemp: 12.7312265, contentTotal: 3, avg comp time: 12.7144633, m_window: 44
+0	54.9283018	contentNum: 24	timeTemp: 13.6156057, contentTotal: 3, avg comp time: 12.7320755, m_totalWindow: 76, sumOfWindow: 76
+2	contentNum: 11	timeTemp: 14.0834642, contentTotal: 3, avg comp time: 13.4674584, m_window: 49
+3	contentNum: 3843	timeTemp: 12.7484396, contentTotal: 3, avg comp time: 13.863407, m_window: 51
+4	contentNum: 619	timeTemp: 15.0914285, contentTotal: 3, avg comp time: 13.9569143, m_window: 51
+1	contentNum: 5704	timeTemp: 13.2212172, contentTotal: 3, avg comp time: 14.2796869, m_window: 66
+5	contentNum: 770	timeTemp: 14.2836883, contentTotal: 4, avg comp time: 13.0283083, m_window: 45
+0	71.5055576	contentNum: 21	timeTemp: 15.5772557, contentTotal: 4, avg comp time: 13.3011115, m_totalWindow: 29, sumOfWindow: 29
+2	contentNum: 12	timeTemp: 13.9223589, contentTotal: 4, avg comp time: 13.5584385, m_window: 41
+3	contentNum: 4176	timeTemp: 13.1058717, contentTotal: 4, avg comp time: 13.7119, m_window: 46
+1	contentNum: 11	timeTemp: 11.6820081, contentTotal: 4, avg comp time: 13.7601511, m_window: 50
+4	contentNum: 18	timeTemp: 15.0403879, contentTotal: 4, avg comp time: 14.1736091, m_window: 47
+5	contentNum: 2108	timeTemp: 12.5596716, contentTotal: 5, avg comp time: 12.9502022, m_window: 52
+2	contentNum: 1216	timeTemp: 12.2963648, contentTotal: 5, avg comp time: 13.3480929, m_window: 55
+3	contentNum: 3493	timeTemp: 11.8548678, contentTotal: 5, avg comp time: 13.4023946, m_window: 22
+0	86.5480312	contentNum: 1507	timeTemp: 14.0424736, contentTotal: 5, avg comp time: 13.4246719, m_totalWindow: 89, sumOfWindow: 89
+1	contentNum: 28	timeTemp: 14.2559182, contentTotal: 5, avg comp time: 13.842779, m_window: 37
+0	93.1185891	contentNum: 1	timeTemp: 5.57055788, contentTotal: 6, avg comp time: 12.3026556, m_totalWindow: 50, sumOfWindow: 50
+4	contentNum: 721	timeTemp: 17.0824146, contentTotal: 5, avg comp time: 14.65841, m_window: 40
+5	contentNum: 86	timeTemp: 13.780662, contentTotal: 6, avg comp time: 13.0688393, m_window: 49
+2	contentNum: 220	timeTemp: 13.218182, contentTotal: 6, avg comp time: 13.3295342, m_window: 37
+3	contentNum: 29	timeTemp: 13.856195, contentTotal: 6, avg comp time: 13.4672232, m_window: 56
+1	contentNum: 319	timeTemp: 13.819194, contentTotal: 6, avg comp time: 13.8394097, m_window: 58
+4	contentNum: 45	timeTemp: 12.9071702, contentTotal: 6, avg comp time: 14.4082329, m_window: 59
+0	109.938325	contentNum: 172	timeTemp: 15.8197362, contentTotal: 7, avg comp time: 12.7422907, m_totalWindow: 64, sumOfWindow: 64
+5	contentNum: 1919	timeTemp: 12.3646675, contentTotal: 7, avg comp time: 12.9808178, m_window: 57
+3	contentNum: 72	timeTemp: 11.7062525, contentTotal: 7, avg comp time: 13.2471019, m_window: 27
+2	contentNum: 4	timeTemp: 14.3547832, contentTotal: 7, avg comp time: 13.4576903, m_window: 58
+1	contentNum: 465	timeTemp: 13.6910378, contentTotal: 7, avg comp time: 13.8208632, m_window: 53
+4	contentNum: 3791	timeTemp: 12.1124264, contentTotal: 7, avg comp time: 14.1212571, m_window: 59
+0	121.643903	contentNum: 5507	timeTemp: 10.705578, contentTotal: 8, avg comp time: 12.5159893, m_totalWindow: 75, sumOfWindow: 75
+5	contentNum: 2	timeTemp: 12.702822, contentTotal: 8, avg comp time: 12.9499294, m_window: 28
+3	contentNum: 1	timeTemp: 11.6195189, contentTotal: 8, avg comp time: 13.0662593, m_window: 8
+2	contentNum: 568	timeTemp: 14.9452166, contentTotal: 8, avg comp time: 13.622971, m_window: 47
+1	contentNum: 4	timeTemp: 12.2151393, contentTotal: 8, avg comp time: 13.6424494, m_window: 53
+0	132.240161	contentNum: 257	timeTemp: 9.59625811, contentTotal: 9, avg comp time: 12.2240161, m_totalWindow: 83, sumOfWindow: 83
+4	contentNum: 1	timeTemp: 13.9082486, contentTotal: 8, avg comp time: 14.0975895, m_window: 27
+3	contentNum: 4	timeTemp: 13.6417947, contentTotal: 9, avg comp time: 13.1238129, m_window: 28
+5	contentNum: 386	timeTemp: 15.405724, contentTotal: 9, avg comp time: 13.1955089, m_window: 29
+0	144.847309	contentNum: 1751	timeTemp: 11.6071476, contentTotal: 10, avg comp time: 12.1679372, m_totalWindow: 79, sumOfWindow: 79
+2	contentNum: 15	timeTemp: 12.2602183, contentTotal: 9, avg comp time: 13.4866957, m_window: 66
+1	contentNum: 174	timeTemp: 14.8431238, contentTotal: 9, avg comp time: 13.7625169, m_window: 52
+4	contentNum: 197	timeTemp: 13.984459, contentTotal: 9, avg comp time: 14.0862764, m_window: 62
+3	contentNum: 1473	timeTemp: 12.0674768, contentTotal: 10, avg comp time: 13.0277823, m_window: 57
+0	157.602756	contentNum: 134	timeTemp: 11.7554474, contentTotal: 11, avg comp time: 12.133563, m_totalWindow: 81, sumOfWindow: 81
+5	contentNum: 94	timeTemp: 16.2801918, contentTotal: 10, avg comp time: 13.4759346, m_window: 48
+2	contentNum: 98	timeTemp: 14.0928898, contentTotal: 10, avg comp time: 13.5418043, m_window: 30
+1	contentNum: 9	timeTemp: 14.6346149, contentTotal: 10, avg comp time: 13.8417985, m_window: 63
+4	contentNum: 3337	timeTemp: 12.7336091, contentTotal: 10, avg comp time: 13.9633067, m_window: 54
+3	contentNum: 52	timeTemp: 13.6555715, contentTotal: 11, avg comp time: 13.0800981, m_window: 9
+0	172.086131	contentNum: 6	timeTemp: 13.483375, contentTotal: 12, avg comp time: 12.2373947, m_totalWindow: 33, sumOfWindow: 33
+5	contentNum: 46	timeTemp: 13.2777119, contentTotal: 11, avg comp time: 13.459416, m_window: 68
+2	contentNum: 66	timeTemp: 14.5763511, contentTotal: 11, avg comp time: 13.6280165, m_window: 39
+1	contentNum: 1	timeTemp: 12.6472274, contentTotal: 11, avg comp time: 13.7422509, m_window: 32
+4	contentNum: 455	timeTemp: 14.4295714, contentTotal: 11, avg comp time: 14.0021621, m_window: 24
+3	contentNum: 7025	timeTemp: 12.4701733, contentTotal: 12, avg comp time: 13.0331808, m_window: 52
+5	contentNum: 7992	timeTemp: 12.3664699, contentTotal: 12, avg comp time: 13.3753433, m_window: 44
+2	contentNum: 1453	timeTemp: 12.6718986, contentTotal: 12, avg comp time: 13.554469, m_window: 38
+1	contentNum: 4057	timeTemp: 12.3755693, contentTotal: 12, avg comp time: 13.6371216, m_window: 59
+3	contentNum: 1553	timeTemp: 12.7005204, contentTotal: 13, avg comp time: 13.0094193, m_window: 50
+4	contentNum: 17	timeTemp: 15.2184021, contentTotal: 12, avg comp time: 14.095719, m_window: 49
+0	197.280212	contentNum: 2022	timeTemp: 24.1940809, contentTotal: 13, avg comp time: 13.0914437, m_totalWindow: 64, sumOfWindow: 64
